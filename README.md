@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @albertsalgueda
-- 👀 I’m interested in Artificial Intelligence and Blockchain, seriously concerned about the climate change. 
-- 🌱 I’m currently learning ML and AI with Python, API creation and integration, UI/UX development
+- 👀 I’m interested in Artificial Intelligence and Blockchain, seriously concerned about climate change. 
+- 🌱 I’m currently learning ML and AI with Python and RStudio and coursing the FullStack Developer course on Udacity 
 - 💞️ I’m looking to collaborate on any project related to my interest
 - 📫 How to reach me -> @albertsalgueda on Twitter and Instagram
 
